@@ -86,7 +86,7 @@ Why we are building it from scratch and not using existing models:
     - Share the code.
     - Share the model.
 
-## SFT (Supervised fine-tuning)
+## SFT (Supervised fine-tuning) student
 - **[Week1]** Research week. 
     - Read papers and articles about SFT how other did it for small models and big models and for low resource languages.
         - [SFT paper](https://arxiv.org/abs/2109.08668)
