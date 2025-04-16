@@ -8,7 +8,7 @@
 ## Introduction to the project and the goal of it.
 Project is about training small LLM (200M-500M) from scratch on Kazakh English and Russian languages using custom tokenizer.
 
-Our team will consist of 3 students:
+Our team will consist of 3-6 students: (for now plan is for 3 students)
 - Tokenizer/helper student.
 - Base model training student.
 - SFT (Supervised fine-tuning) student.
