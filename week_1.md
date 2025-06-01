@@ -34,6 +34,7 @@ Train a small multilingual LLM (200M-500M parameters) from scratch on Kazakh, En
 **Study Resources**:
 
 `NOTE: below is only resorcses that I found, but I encourage you to find more resources and share them with the group.`
+- Play with tokenizer online to receive some high level understnading [Tiktokenizer](https://tiktokenizer.vercel.app/)
 - Watch "[Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE?si=LVfIh85FUiFT4v1p)" by Andrej Karpathy
 - Study HuggingFace [Tokenizers library](https://huggingface.co/learn/llm-course/en/chapter6) by huggingface
 - Analyze existing tokenizers (Qwen, Gemma, LLaMA)
