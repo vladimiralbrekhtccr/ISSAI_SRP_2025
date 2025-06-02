@@ -44,7 +44,6 @@ Train a small multilingual LLM (200M-500M parameters) from scratch on Kazakh, En
 
 `TASK: Create a srcipt/tool to compare the tokenizers in terms of efficiency for 3 languages.`
 
-- Collect and prepare multilingual training data (?% Kazakh, ?% English, ?% Russian)
 - Papers to read:
     - [MorphBPE](https://arxiv.org/pdf/2502.00894)
     - [VRCP](https://aclanthology.org/2025.sumeval-2.5.pdf)
