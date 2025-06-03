@@ -1,3 +1,6 @@
+Node = 1 PC with GPUs
+
+
 So first you check weather you can connect from 1 PC to another one, using ssh internal IP adress.
 Then you run bash script on master node
 On second node you change the NODE_rank from 0 to 1 and run same bash script.
