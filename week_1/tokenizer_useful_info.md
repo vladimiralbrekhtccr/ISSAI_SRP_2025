@@ -1,8 +1,9 @@
 ## 1. How to measure tokenizer performance?
-**Formula:** `Fertility = Characters / Tokens`
 
-### 🔢 **Character-level efficiency**
+### 🔢 **Character-level fertility**
 **Text:** "I want to say the he" *(20 characters)*
+
+**Formula:** `Fertility = Characters / Tokens`
 
 Fertility: 1.0 = 20/10
 
