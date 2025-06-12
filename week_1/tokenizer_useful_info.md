@@ -40,3 +40,9 @@ What other metrics can we use to measure tokenizer performance?
 * Vocabulary utilization
 * Language-specific fertility
 * Perplexity after tokenization
+
+Data for training.
+
+* KazLLM base filtering
+
+
