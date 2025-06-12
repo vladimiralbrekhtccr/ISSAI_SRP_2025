@@ -29,4 +29,7 @@ Text: `"I want to say the he"`
 | Tokenizer 1 | 20     | 4.0                      | Low        |
 | Tokenizer 2 | 10     | 2.0                      | High       |
 
+> **Note:** Lower fertility = better efficiency.
+
+
 > **TODO:** What other metrics we can use to measure the tokenizer performance?
