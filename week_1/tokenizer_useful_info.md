@@ -31,5 +31,12 @@ Text: `"I want to say the he"`
 
 > **Note:** Lower fertility = better efficiency.
 
+### 🧠 TODO:
 
-> **TODO:** What other metrics we can use to measure the tokenizer performance?
+What other metrics can we use to measure tokenizer performance?
+
+* Unique token ratio
+* Subword coverage (e.g., how often full words are preserved)
+* Vocabulary utilization
+* Language-specific fertility
+* Perplexity after tokenization
