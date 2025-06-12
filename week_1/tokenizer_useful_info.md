@@ -4,6 +4,8 @@
 ### Example
 **Text:** "I want to say the he" *(20 characters)*
 
+Fertility: 1.0 = 20/10
+
 | Tokenizer | Tokens | Fertility | Efficiency |
 |-----------|--------|-----------|------------|
 | Tokenizer 1 | 20 | 1.0 | Low |
