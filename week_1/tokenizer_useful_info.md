@@ -45,4 +45,10 @@ Data for training.
 
 * KazLLM base filtering
 
+## 2. We will train multilingual because:
 
+1. 3 main lanugages in kazakhstand because a lot of different stuff also written in english
+
+2. It will allow us to SFT on transaltion tasks.
+
+3. Better for the long run.
