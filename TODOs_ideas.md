@@ -23,6 +23,12 @@ issai/kazparc (https://huggingface.co/datasets/issai/kazparc)
 
 Kazakh news ( )
 
+https://adebiportal.kz/kz/news
+
+https://kitap.kz/?utm_source=chatgpt.com
+
+https://kazneb.kz/kk/about?utm_source=chatgpt.com
+
 
 #### We need to apply Deepseek or similar model for filtering and also apply language identification.
 
