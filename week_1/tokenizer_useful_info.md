@@ -96,7 +96,9 @@ When evaluating tokenizers, consider the trade-offs between these metrics based 
 
 What other metrics can we use to measure tokenizer performance?
 
+* Kazakh specific metrics
 * Perplexity after tokenization
+* Kazakh is agglutinative - measure how well morphological suffixes are segmented
 
 Data for training.
 
